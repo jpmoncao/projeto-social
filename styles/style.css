@@ -73,3 +73,13 @@ section#redes-sociais img:active {
     transform: translate(-7px, 6px);
     
 }
+
+section#redes-sociais #meu-projeto {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    margin-right: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: normal normal .8em Arial, sans-serif;
+}
